@@ -1,1 +1,1 @@
-def hello := "world"
+#eval "hello world"
