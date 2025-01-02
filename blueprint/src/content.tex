@@ -6,4 +6,19 @@
 % the current file can be a simple sequence of \input. Otherwise It
 % can start with a \section or \chapter for instance.
 
-Hello world.
+\section{Test}
+
+\begin{lemma}
+    \label{lem:test}
+    \leanok
+\end{lemma}
+
+\begin{lemma}
+    \label{lem:hello_world}
+    \lean{hello_world}
+    Hello world.
+\end{lemma}
+
+\begin{proof}
+    \uses{lem:test}
+\end{proof}

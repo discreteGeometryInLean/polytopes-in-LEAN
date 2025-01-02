@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1735556356.34706 "print.tex" "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.pdf" "print" 1735556357.10267 0
-  "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.aux" 1735556356.88376 151 1087a38a791066fb0a59795ffeb395e0 "pdflatex"
-  "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.out" 1735556356.70139 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1735804651.37039 "print.tex" "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.pdf" "print" 1735804652.1313 0
+  "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.aux" 1735804651.90815 349 b845d00fe6b67b1b6c50bf1e614b294c "pdflatex"
+  "/Users/shelbycox/Documents/Code/polytopes-in-LEAN/blueprint/print/print.out" 1735804651.9084 65 35dabbac2647c2ec1c6b2d1c369dff3c "pdflatex"
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -82,7 +82,7 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1725614257 10850175 3d8783977f886097ea164ba8b1d779c3 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "content.tex" 1735556338.94992 377 7efb75b8574a93828579bbe401340642 ""
+  "content.tex" 1735804609.83901 581 adaa67886f1d4f88834cd9fa4b9db254 ""
   "macros/common.tex" 1735556024.16903 820 60fafcc3aa944a5e60030581a943ef6b ""
   "macros/print.tex" 1735556024.17038 1101 87627b2ec24fef68edc71c13f43f7bab ""
   "print.tex" 1735556287.97335 1108 83691d79c862d639a90b189c83de4577 ""
