@@ -1,3 +1,4 @@
 /.lake
 
 shared.lean
+blueprint/src/content.tex

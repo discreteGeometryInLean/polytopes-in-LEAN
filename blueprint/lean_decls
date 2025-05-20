@@ -1,1 +1,10 @@
-hello_world
+PolytopesInLEAN/Primspace.lean/Primspace
+AffineSpace.ambient_is_primspace
+AffineSpace.empty_is_primspace
+subspace_restriction_is_primspace
+Set.is_convex
+AffineSpace.empty_is_convex
+AffineSpace.ambient_is_convex
+convex_hull
+convex_hull.is_convex
+convex_hull.of_empty_is_empty
