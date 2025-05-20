@@ -1,7 +1,7 @@
 Primspace
 AffineSpace.ambient_is_primspace
 AffineSpace.empty_is_primspace
-subspace_restriction_is_primspace
+Primspace.subspace_restriction_is_primspace
 Set.is_convex
 AffineSpace.empty_is_convex
 AffineSpace.ambient_is_convex
