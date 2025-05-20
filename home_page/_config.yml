@@ -22,10 +22,10 @@ title: Polytopes in LEAN
 #email: your-email@example.com
 description: by Shelby Cox
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shelbycox.github.io/polytopes-in-LEAN" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://discretegeometryinlean.github.io/polytopes-in-LEAN/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: shelbycox
-repository: shelbycox/polytopes-in-LEAN
+github_username: discreteGeometryInLean
+repository: discreteGeometryInLean/polytopes-in-LEAN
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0 
