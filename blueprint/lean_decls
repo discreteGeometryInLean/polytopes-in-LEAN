@@ -1,4 +1,4 @@
-PolytopesInLEAN/Primspace.lean/Primspace
+Primspace
 AffineSpace.ambient_is_primspace
 AffineSpace.empty_is_primspace
 subspace_restriction_is_primspace
