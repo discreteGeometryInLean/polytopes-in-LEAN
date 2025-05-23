@@ -22,8 +22,10 @@ title: Polytopes in Lean
 #email: your-email@example.com
 description: by Shelby Cox and Martin Winter
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://discreteGeometryInLean.github.io/polytopes-in-LEAN/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://discretegeometryinlean.github.io/polytopes-in-LEAN/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
+github_username: discreteGeometryInLean
+repository: discreteGeometryInLean/polytopes-in-LEAN
 github_username: discreteGeometryInLean
 repository: discreteGeometryInLean/polytopes-in-LEAN
 
