@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Polytopes in LEAN
+title: Polytopes in Lean
 #email: your-email@example.com
-description: by Shelby Cox
+description: by Shelby Cox and Martin Winter
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://discretegeometryinlean.github.io/polytopes-in-LEAN/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
